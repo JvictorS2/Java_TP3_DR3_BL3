@@ -21,6 +21,8 @@ Onde tem um {id} o endpoint exige que informe um número inteiro do dados que de
 - Apagar um cadastro específico: http://localhost:8080/api/delete/{id} (DELETE)
 - Atualizar passagem de um cadastro específico: http://localhost:8080/api/update/{id} (PUT)
 
+teste a API no postman (Obs: a aplicação precisa está sendo executada para pode ser testada no postman): https://www.postman.com/payload-operator-64684510/workspace/java-tp3-api/collection/33643452-0b2f1b16-ba58-4d83-b926-67008c7af2a2?action=share&creator=33643452  
+
 ### Ferramenta utizadas 
 
 - Itellij (IDE) 
